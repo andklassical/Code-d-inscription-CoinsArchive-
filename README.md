@@ -1,0 +1,2 @@
+# Code-d-inscription-CoinsArchive-
+Page HTML simple et responsive affichant le code d'inscription CoinsArchive (13598).   Cette page permet aux utilisateurs d’obtenir leur code unique et de poursuivre directement   vers le site officiel d’inscription CoinsArchive.
